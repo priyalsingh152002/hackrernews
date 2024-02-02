@@ -1,0 +1,18 @@
+/* LoginButton.css */
+div{
+    padding-top: 5px;
+}
+.login-button {
+    background-color: red; /* Red background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding for the button */
+    border: none; /* Remove button border */
+    text-decoration: none; /* Remove default link underline */
+    border-radius: 5px; /* Apply border radius for rounded corners */
+    margin: 20px;
+  }
+  
+  .login-button:hover {
+    background-color: darkred; /* Darker red color on hover */
+  }
+  
